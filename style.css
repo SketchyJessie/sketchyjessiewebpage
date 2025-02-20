@@ -6,4 +6,6 @@ body {
   line-height: 1.5;
   overflow-wrap: anywhere;
   text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
 }
